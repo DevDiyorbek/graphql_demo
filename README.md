@@ -8,13 +8,16 @@ The platform separates responsibilities:
 - 🌐 **Web app → for admins**  
   **Access:** https://navlin.vercel.app/  
   **Admin Credentials**:
-  - Email: `dadmin@bank.com`  
+  - Email: `demo.admin@bank.com`  
   - Password: `123456`  
 
 - 📱 **Mobile app → for staff, departments, and branches**  
-  **Download APK:**  
-  https://drive.google.com/file/d/1eHKGJkp-WG8_xAINKIIcjVQtEsOYVnvf/view?usp=sharing
+  **Download APK:**
+  https://drive.google.com/file/d/1R9gB5obiOoj4H8fcOwhX3dTp8X6X_2WB/view?usp=sharing  
 ⚠️ **Note:** Enable *"Install from unknown sources"* to install the app.
+  **Demo User Credentials**:
+  - Email: `develo.peracc@bank.com`  
+  - Password: `12345678`  
 ---
 We added brief instructions for parts that may be unclear.
 ---
